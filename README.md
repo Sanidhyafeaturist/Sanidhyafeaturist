@@ -14,15 +14,14 @@ I am a technology enthusiast with a strong passion for developing innovative sol
 
 I utilize a diverse set of technologies and tools to bring my ideas to life:
 
-- **Programming Languages:** C++
-- **Frameworks and Libraries:** Arduino
-- **Tools and Platforms:** Arduino IDE
+- **Programming Languages:** C++ 
+- **Tools and Platforms:** Visual Studio and Visual Studio Code
 
 ---
 
 ## 🌱 Current Focus
 
-Currently, I am working on developing Windows-friendly applications. I thrive on new challenges and actively seek opportunities to expand my skill set.
+Currently, I am working on developing all kinds of applications. I thrive on new challenges and actively seek opportunities to expand my skill set.
 
 ---
 
@@ -30,17 +29,17 @@ Currently, I am working on developing Windows-friendly applications. I thrive on
 
 Here are some highlights of my recent projects that showcase my skills and interests:
 
-1. **[Humanoid Robot With Emergency Features](https://github.com/Sanidhyafeaturist/Humanoid-robot-with-emergency-features)**  
-   A robot designed to act as a companion and assist in emergencies by calling for help.  
-   *Credits: Inspired by Otto Diy and SleepyAsh26.*
+1. **[AndroidRescueX](https://github.com/Sanidhyafeaturist/AndroidRescueX)**  
+   It's A custom ROM similar to TWRP, that provides a smooth UI.  
+   *Credits: Inspired by TWRP (Team Win Recovery Project).*
 
-2. **[Bootloader For NodeMCU](https://github.com/Sanidhyafeaturist/Bootloaderfornodemcu)**  
-   Implementation of a bootloader for the NodeMCU ESP8266.  
-   *Technologies Used: Arduino IDE*
+2. **[SyncSphere](https://github.com/Sanidhyafeaturist/SyncSphere)**  
+   A SQL Database that uses MySQL. It has 2 databses, db 1 for users and db 2 for taking snapshots of db 1, this model is also used by GitLab.  
+   *Technologies Used: MySQL*
 
-3. **[Independence Day Special](https://github.com/Sanidhyafeaturist/Independencespecial)**  
-   A special project to celebrate Indian Independence Day, showcasing my first improved robot.  
-   *Technologies Used: Arduino IDE*
+3. **[RustForge](https://github.com/Sanidhyafeaturist/RustForge)**  
+   RustForge is a rust framweork, designed for eficiancy in developing rust projects. It Provides routing, templating, data access etc. for developers to quickly get started and create a rust project.  
+   *Technologies Used: Rust*
 
 ---
 
